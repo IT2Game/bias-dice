@@ -1,0 +1,34 @@
+{
+    "embed": {
+      "title": "Information",
+      "color": 8288674,
+      "timestamp": "2019-04-21T19:09:52.386Z",
+      "footer": {
+        "text": "Type /help for the command list"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/373585437756751873/13f96f7f16ddb5b40c3815ccf7a188bc.png"
+      },
+      "fields": [
+        {
+          "name":"Creator", 
+          "value":"❤Asto❤#6969"
+        },
+        {
+          "name": "Prefix",
+          "value": "/cmd",
+          "inline": false
+        },
+        {
+          "name": "Framework",
+          "value": "discord.js",
+          "inline": true
+        },
+        {
+          "name": "Programming Language",
+          "value": "TypeScript/JavaScript",
+          "inline": true
+        }
+      ]
+    }
+  }

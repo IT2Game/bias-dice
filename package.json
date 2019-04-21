@@ -1,0 +1,31 @@
+{
+  "name": "dice",
+  "version": "1.0.0",
+  "description": "project of biased dice",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "dice"
+  ],
+  "author": "❤Asto❤#6969",
+  "license": "ISC",
+  "dependencies": {
+    "@types/nedb": "^1.8.7",
+    "@types/node": "^11.13.6",
+    "@types/winston": "^2.4.4",
+    "discord.js": "^11.4.2",
+    "gulp": "^4.0.0",
+    "gulp-nodemon": "^2.4.2",
+    "gulp-typescript": "^5.0.1",
+    "nedb": "^1.8.0",
+    "node": "^11.14.0",
+    "random-number-csprng": "^1.0.2",
+    "typescript": "^3.4.4",
+    "uws": "^100.0.1",
+    "winston": "^3.2.1"
+  }
+}

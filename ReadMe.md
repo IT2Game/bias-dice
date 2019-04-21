@@ -7,7 +7,7 @@ It's meant to generate biased dice rolls to ensure an balanced Roleplay.
     Or use Git (would pretty much recommend that)
 2. Install NodeJS https://nodejs.org/en/download/
 3. Update and install needed packages
-    `npm install -g npm node typescript gulp-cli`
+    `npm install -g npm node node-gyp typescript gulp-cli`
 4. Open the command console in the folder
 5. Let NPM install all dependencies
     `npm install` (in the same folder where package.json is placed)

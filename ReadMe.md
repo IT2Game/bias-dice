@@ -18,3 +18,8 @@ It's meant to generate biased dice rolls to ensure an balanced Roleplay.
 
 ## Prefix
 The prefix is `/` you can always get a list of commands with the `/help` command
+
+## TODO
+Add command to change prefix
+Add Database
+Add "dice enhancement"
